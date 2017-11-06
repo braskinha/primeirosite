@@ -2,6 +2,13 @@ body {
     font-family: 'Open Sans Condensed', sans-serif;
 }
 
-h1 {
-    color: fuchsia;
+.nav {
+	background-color: #9E9E9E;
+	width: 100%;
+	height: 150px;
+}
+
+.logo {
+	color:aqua;
+	padding-left: 10px;
 }
